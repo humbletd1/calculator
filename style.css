@@ -18,9 +18,10 @@ overflow: hidden;
 #display{
     width: 100%;
     padding: 20px;
-    font-size: 5rem;
+    font-size: 3rem;
     text-align: left;
     border: none;
+    color: aliceblue;
     background-color: hsl(0, 0%, 20%) ;
 }
 #keys{
